@@ -50,7 +50,7 @@ pytest-xdist==2.4.0
 python-multipart==0.0.6
 redis==5.0.0
 requests==2.31.0
-tiktoken==0.5.1
+tiktoken==
 wikipedia==1.4.0
 wolframalpha==5.0.0
 unstructured==
